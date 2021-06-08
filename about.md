@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+这是玢玮的博客，学无止境， let's go!!!!
 
 ### More Information
 
