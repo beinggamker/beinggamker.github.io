@@ -1,3 +1,7 @@
+---
+layout: post
+title: imgui 入门or入土---6/8
+---
 # imgui 入门or入土
 
 现在也叫做 dear imgui了,因为之前imgui在之前就有人已经提出了，imgui = immediate mode graphical user interface 即时模式的图形用户接口，为了加以区分。
